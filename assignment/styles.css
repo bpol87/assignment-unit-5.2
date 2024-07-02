@@ -1,0 +1,22 @@
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0px;
+    padding: 1em;
+}
+
+.banner {
+    color: aliceblue;
+    background-color: darkslategray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    background-color: lightgray;
+    color: darkslateblue;
+    padding: 1em;
+}
+
